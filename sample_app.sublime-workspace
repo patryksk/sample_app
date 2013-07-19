@@ -11,47 +11,15 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 731,
+				"buffer_size": 763,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "spec/requests/static_pages_spec.rb",
+			"file": "app/assets/stylesheets/custom.css.scss",
 			"settings":
 			{
-				"buffer_size": 1514,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "spec/spec_helper.rb",
-			"settings":
-			{
-				"buffer_size": 3672,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/helpers/application_helper.rb",
-			"settings":
-			{
-				"buffer_size": 262,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 365,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/static_pages/home.html.erb",
-			"settings":
-			{
-				"buffer_size": 147,
+				"buffer_size": 239,
 				"line_ending": "Unix"
 			}
 		}
@@ -96,32 +64,35 @@
 	},
 	"file_history":
 	[
+		"/home/patryk/Projekty/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/patryk/Projekty/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/patryk/Projekty/sample_app/app/views/layouts/application.html.erb",
+		"/home/patryk/Projekty/sample_app/app/views/static_pages/home.html.erb",
+		"/home/patryk/Projekty/sample_app/config/application.rb",
+		"/home/patryk/Projekty/sample_app/app/helpers/application_helper.rb",
+		"/home/patryk/Projekty/sample_app/spec/spec_helper.rb",
+		"/home/patryk/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/patryk/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/patryk/Projekty/sample_app/spec/requests/Test Results",
 		"/home/patryk/.config/sublime-text-2/Packages/User/RubyTest.sublime-settings",
 		"/home/patryk/.config/sublime-text-2/Packages/RubyTest/Default (Linux).sublime-keymap",
 		"/home/patryk/.config/sublime-text-2/Packages/RubyTest/Default.sublime-keymap",
 		"/home/patryk/Projekty/sample_app/Guardfile",
 		"/home/patryk/.config/sublime-text-2/Packages/RubyTest/README.md",
-		"/home/patryk/Projekty/sample_app/spec/requests/static_pages_spec.rb",
 		"/home/patryk/.config/sublime-text-2/Packages/RubyTest/Widget.sublime-settings",
 		"/home/patryk/.config/sublime-text-2/Packages/RubyTest/run_ruby_test.pyc",
-		"/home/patryk/Projekty/sample_app/spec/spec_helper.rb",
 		"/home/patryk/Projekty/sample_app/.rspec",
 		"/home/patryk/Projekty/sample_app/Gemfile.lock",
-		"/home/patryk/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/patryk/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
 		"/home/patryk/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
-		"/home/patryk/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/patryk/Projekty/sample_app/app/views/static_pages/contact.html.erb",
 		"/home/patryk/Projekty/sample_app/Gemfile",
 		"/home/patryk/.config/sublime-text-2/Settings/Session.sublime_session",
 		"/home/patryk/Projekty/sample_app/app/controllers/static_pages_controller.rb",
-		"/home/patryk/Projekty/sample_app/app/views/layouts/application.html.erb",
 		"/home/patryk/Projekty/sample_app/config/routes.rb",
 		"/home/patryk/Projekty/sample_app/app/views/static_pages/about.html.erb",
 		"/home/patryk/Projekty/sample_app/app/views/static_pages/help.html.erb",
 		"/home/patryk/Projekty/sample_app/config/environments/production.rb",
-		"/home/patryk/Projekty/sample_app/app/views/static_pages/home.html.erb",
 		"/home/patryk/Projekty/sample_app/config/environment.rb",
 		"/home/patryk/Projekty/sample_app/README.md",
 		"/home/patryk/Projekty/sample_app/README.rdoc",
@@ -190,15 +161,15 @@
 					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 731,
+						"buffer_size": 763,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								278,
-								278
+								134,
+								134
 							]
 						],
 						"settings":
@@ -215,131 +186,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "spec/requests/static_pages_spec.rb",
+					"file": "app/assets/stylesheets/custom.css.scss",
 					"settings":
 					{
-						"buffer_size": 1514,
+						"buffer_size": 239,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								49,
-								49
+								22,
+								22
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/User/RSpec.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "spec/spec_helper.rb",
-					"settings":
-					{
-						"buffer_size": 3672,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								430,
-								430
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/helpers/application_helper.rb",
-					"settings":
-					{
-						"buffer_size": 262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								262
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 365,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								79
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/views/static_pages/home.html.erb",
-					"settings":
-					{
-						"buffer_size": 147,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -396,6 +259,22 @@
 		"selected_items":
 		[
 			[
+				"apli",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"aphtm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
 				"home",
 				"app/views/static_pages/home.html.erb"
 			],
@@ -426,6 +305,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 158.0,
+	"side_bar_width": 226.0,
 	"status_bar_visible": true
 }
